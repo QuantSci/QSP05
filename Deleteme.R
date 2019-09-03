@@ -16,3 +16,28 @@ library(tidyverse)
 ## Leslie added this
 
 # Matt added this
+
+
+
+
+
+
+###########################
+## SAMPLE WORKFLOW STEPS ##
+###########################
+
+#1) Create github repo
+
+#2) Create new project in RStudio, copy/paste github repo link
+
+#2a) Pull from github to get any new changes
+
+#3) Write code
+
+#4) Save changes
+
+#5) Commit changes
+
+#6) Push changes to github
+
+#7) When starting again, pull from github, repeat steps 2a-5 until completion.
