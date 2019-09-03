@@ -8,3 +8,5 @@
 # Doug added this
 
 # Zach added this
+#load tidyverse
+library(tidyverse)
