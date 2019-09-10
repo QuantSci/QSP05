@@ -41,3 +41,5 @@ library(tidyverse)
 #6) Push changes to github
 
 #7) When starting again, pull from github, repeat steps 2a-5 until completion.
+
+data <- read.csv("R:/BM_QuantitativeSciencesPrg/QSP-05/DATA/btb.csv", na.strings = "NA", header = TRUE)
