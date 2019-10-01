@@ -12,7 +12,7 @@ if(window_machine==1) {
 }
 rm(window_machine)
 
-networkpath <- path(network_start, "BM_QuantitativeSciencesPrg", "QSP-05", "DATA")
+networkpath <- path(network_start, "BM_QuantitativeSciencesPrg", "STUDIES", "QSP05", "POSTED", "DATA", "SOURCE")
 
 b2b <- read_csv(path(networkpath, "btb.csv"))
 
